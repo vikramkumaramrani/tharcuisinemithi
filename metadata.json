@@ -1,0 +1,5 @@
+{
+  "name": "Thar Cuisine - Authentic Thari Flavors",
+  "description": "Official website for Thar Cuisine in Mithi, Pakistan. Experience authentic local flavors, dine-in, and catering services.",
+  "requestFramePermissions": ["geolocation"]
+}
